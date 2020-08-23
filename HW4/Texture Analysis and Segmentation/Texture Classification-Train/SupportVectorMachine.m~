@@ -1,0 +1,8 @@
+function trainParams = SupportVectorMachine(featureMatrix, labels)
+    trainParams = fitcecoc(featureMatrix, labels);
+    disp(trainParams.ClassNames);
+    [pred, score] = predict(trainParams);
+    disp(pred);
+    
+    
+end

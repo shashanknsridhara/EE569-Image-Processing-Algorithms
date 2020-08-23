@@ -1,0 +1,5 @@
+function discriminantPower = discriminantPower_train(featureMatrix)
+    for i = 1:15
+       featureMatrix(:,i) 
+    end
+end
