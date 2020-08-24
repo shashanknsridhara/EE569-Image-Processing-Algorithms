@@ -1,5 +1,5 @@
 # EE569 Assignments
-The assignments include C++ implementation of basic image processing algorithms without the aid of any external libraries. The Homeworks 
+The assignments include C++ implementation of basic image processing algorithms without the aid of any external libraries. The topics of each homework is listed below and arranged in the same order in the respective folders. 
 
 ## Homework-1
 * Image Demosaicing
