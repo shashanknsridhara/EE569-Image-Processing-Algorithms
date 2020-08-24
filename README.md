@@ -63,9 +63,9 @@ The assignments include C++ implementation of basic image processing algorithms 
   
 ## Homework-5
 
+* Training LeNet-5 for CIFAR-10 dataset.
 * CIFAR-10 Competition
- * Training LeNet-5 for CIFAR-10 dataset.
- * Improvising the classification accuracy of LeNet-5 on CIFAR-10 with minimum number of hyperparameters.
+  * Improvising the classification accuracy of LeNet-5 on CIFAR-10 with minimum number of hyperparameters.
 
 ## Homework-6
 
